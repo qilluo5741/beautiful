@@ -1,0 +1,97 @@
+ img{
+	margin-left: 33%;
+} 
+body{
+    background: #f8f8f8;
+}
+/* #myCarousel{
+	margin-left: 28%;
+	background: #f8f8f8;
+} */
+#myCarousel{
+	margin-top: 15px;
+}
+/* .carousel-inner{
+	background-color: white;
+	margin:0px;
+} */
+/* .carousel-control left{
+	background-color: black;
+	width:100px;
+} */
+a{
+	background: #f8f8f8;
+}
+
+ #state_machine{
+	margin-left:150px;
+	margin-top:25px;
+	width: 250px;
+	height:200px;
+	border:1px;
+	text-align:right;
+	background-color: #FFF5EE;
+	float:left;
+}
+#invite{
+	margin-left:330px;
+	margin-top:25px;
+	width: 300px;
+	height:200px;
+	border:1px;
+	text-align:right;
+	background-color: #FFF5EE;
+	float:left;
+}
+#order{
+	margin-left:300px;
+	margin-top:25px;
+	width: 300px;
+	height:200px;
+	border:1px;
+	text-align:right;
+	background-color: #FFF5EE;
+	float:left;
+}
+#park{
+	margin-left:200px;
+	margin-top:25px;
+	width: 300px;
+	height:200px;
+	border:1px;
+	text-align:right;
+	background-color: #FFF5EE;
+	float:left;
+}
+#purse{
+	margin-left:300px;
+	margin-top:25px;
+	width: 300px;
+	height:200px;
+	border:1px;
+	text-align:right;
+	background-color: #FFF5EE;
+	float:left;
+}
+#toll_collector{
+	margin-left:300px;
+	margin-top:25px;
+	width: 300px;
+	height:200px;
+	border:1px;
+	text-align:right;
+	background-color: #FFF5EE;
+	float:left;
+}
+.context{
+	background-color:#FFF5EE;
+    transform-origin: center top 0px;
+    float:left;
+}
+a{
+	color:#8B0A50;
+}
+p{
+	font-size: medium;
+	color:#363636;
+}

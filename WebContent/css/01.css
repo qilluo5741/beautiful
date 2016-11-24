@@ -1,0 +1,8 @@
+input.text,input.radio{text-align:center}
+table {border-collapse:collapse}
+table td{border:1px solid #8DB6CD;color:#8DB6CD;text-align:center}/*全体页面字体颜色*/
+table tr{height:25px}
+table tr th{border: 1px solid #8DB6CD; color:#8DB6CD;text-align:center}/*全体页面字体颜色*/
+table a{color:#F0F0F0;text-decoration:none}
+table tr:hover{background-color:#8DB6CD}
+body{color:#8DB6CD}/*全体页面上半字体颜色*/
